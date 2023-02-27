@@ -21,4 +21,5 @@ M5StickCを使って作成しています。
 
 ## 作り方および完成品紹介ページ
 
-作成中
+* [作成過程(ブログ)](https://yamaccu.github.io/tech/20230227_TVONCounter)
+* [完成形の紹介(ProtoPedia)](https://protopedia.net/prototype/3732)
